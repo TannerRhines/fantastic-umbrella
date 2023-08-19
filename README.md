@@ -24,4 +24,4 @@ Remember to run the SQL schema and seed data before running the app
 Here is a video of the API testing demo
 ---------------------------------------
 
-https://drive.google.com/file/d/1_awYjLArFNPNzlE11kvQ1ZWSiAhzvOA4/view?usp=drive_link
+https://drive.google.com/file/d/1nlcJkDQUCszSTwMtG97HpEswNlHhIKJv/view?usp=drive_link
